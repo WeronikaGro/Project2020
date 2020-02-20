@@ -1,4 +1,4 @@
-# Project Name :
+# Project Name : Humidity regulating Spray Bottle
 
 #### Student Name : Weronika Grodecka
 #### Student ID : 20090235
